@@ -29,16 +29,7 @@ pip install pandas openpyxl
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/email-reminder-sender.git
-    cd email-reminder-sender
-    ```
-
-2. **Run the script**:
-
-    Run the Python script using the following command:
-
-    ```bash
-    python email_reminder.py
+    https://github.com/ShahidKhan232/Atttendence-Notifier.git
     ```
 
 3. **Instructions**:
